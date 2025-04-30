@@ -2,6 +2,12 @@
 
 A professional command-line tool to manage video players on Linux systems. This tool provides an easy-to-use interface for installing and managing various video players across different Linux distributions.
 
+## Development Information
+- Version: 2.0.0
+- Author: HAMNA TEC
+- License: MIT
+- Description: Universal Video Player Manager for Linux Systems
+
 ## Features
 
 - Support for multiple Linux distributions (Debian/Ubuntu, Fedora, Arch Linux, openSUSE)
@@ -31,7 +37,7 @@ A professional command-line tool to manage video players on Linux systems. This 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/video-player-manager.git
+git clone https://github.com/shahzadafaisal6/video-player-manager.git
 cd video-player-manager
 ```
 
@@ -61,6 +67,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-
-HAMNA TEC
+## Contact Information
+- Author: HAMNA TEC
+- GitHub: [shahzadafaisal6](https://github.com/shahzadafaisal6)

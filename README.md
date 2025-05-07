@@ -1,5 +1,13 @@
 # Video Player Manager
 
+Welcome to the Video Player Manager repository!
+
+Watch the demo video below to see how it works:
+
+[![Watch the video](https://img.youtube.com/vi/98w0ue3BQxA/0.jpg)](https://youtu.be/98w0ue3BQxA)
+
+# Video Player Manager
+
 A professional command-line tool to manage video players on Linux systems. This tool provides an easy-to-use interface for installing and managing various video players across different Linux distributions.
 
 ## Development Information
